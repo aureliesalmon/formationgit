@@ -7,8 +7,8 @@
     <groupId>com.ebiznext</groupId>
     <artifactId>formationgit</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <!--Un commentaire de test-->
-    <!--Un autre commentaire -->
-    <!--Un troisième commentaire -->
+    <!--Un commentaire de test master-->
+    <!--Un autre commentaire master-->
+    <!--Un troisième commentaire master -->
 
 </project>
